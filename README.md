@@ -1,9 +1,4 @@
 # Airflow Boilerplate
-A complete development environment setup for working with Airflow, based on [this Medium article](https://medium.com/ninjavan-tech/setting-up-a-complete-local-development-environment-for-airflow-docker-pycharm-and-tests-3577ddb4ca94).
-If you are interested in learning about the thoughts and processes behind this setup, do read the article. 
-Otherwise, if you want to get hands-on immediately, you can skip it and just follow the instructions below 
-to get started.
-
 ![The overall setup diagram](/images/setup_diagram.png)
 
 This boilerplate has more tools than was discussed in the article. In particular, it has the following things
